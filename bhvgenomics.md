@@ -10,7 +10,7 @@ These recollection has the intention of promote the integration of genetic varia
 |             | OXTR  | oxytocin repector          | social bonds     |
 | Agonistic   | MAOA  | monoamine oxidase A        | aggression       |
 |             | AVPR  | arginine-vasopresine genes | social agonistic |
-|             | 5-HTT | serotonine promoter        | aggression       |
+|             | 5-HTT SLC6A4 | serotonine promoter        | aggression       |
 |             | ?     | melatonine                 | aggression       |
 | Personality | DRD4  | dopamine receptor          | novelty seeking  |
 
@@ -37,6 +37,8 @@ Gene related with agressive behaviour
 ### 2.3) 5-HTT serotonine promoter
 
 This gene polymorphisims have been associated in the literature with personality and agression blue tits and Rhesus monkeys.
+
+When entering 5-HTT in NCBI it refers to a different gene SLC6A4 solute carrier family 6 member 4. I am not exactly sure what this means. Probably that 5HTT is embeses in this gene ??
 
 ### 2.4) melatonine?
 
