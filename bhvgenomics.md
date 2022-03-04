@@ -14,6 +14,8 @@ These recollection has the intention of promote the integration of genetic varia
 |             | ?     | melatonine                 | aggression       |
 | Personality | DRD4  | dopamine receptor          | novelty seeking  |
 
+> All sequences present in the file "bhv_biomarkers" are sequences from the spcecies *Chlorocebus sabeus*
+
 ## 1) Polymorphisims for sociality
 
 ### 1.1) OPRM1 mu-opioid receptor gene
@@ -32,7 +34,7 @@ Gene related with agressive behaviour
 
 ### 2.2) AVPR arginine-vasopresine
 
-3 genes associated with the creating of social bonds and agonitic behaviours. Little research has been done on the implications of this polymorphisims for bahviour
+Thre esubtypes of AVPR exist, called AVPR1a, AVPR1b, and AVPR2. AVPR2 is expressed in the kidney, thus having little relevance for this review.  associated with the creating of social bonds and agonitic behaviours. Little research has been done on the implications of this polymorphisims for bahviour
 
 ### 2.3) 5-HTT serotonine promoter
 
